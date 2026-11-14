@@ -1,3 +1,3 @@
-a=pranay 
-b=20
-print(a+b)
+a = "pranay"
+b = 20
+print(a + str(b))
