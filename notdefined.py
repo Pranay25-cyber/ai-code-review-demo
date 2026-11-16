@@ -1,3 +1,3 @@
-a=int(input())
-for i in b
-print(i)
+a = int(input())
+for i in range(a):
+    print(i)
